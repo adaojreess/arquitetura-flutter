@@ -1,4 +1,4 @@
-import 'package:arquitetura_flutter/app/components/custom_switch_widget.dart';
+import 'package:arquitetura_flutter/app/pages/home/components/custom_switch_widget.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
