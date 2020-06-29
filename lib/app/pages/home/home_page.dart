@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
         title: Text('Home Page'),
       ),
       body: Center(
-        child: CustomSwitchwidget(),
+        child: CustomSwitchwidget()
       ),
     );
   }
